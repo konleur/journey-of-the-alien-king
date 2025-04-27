@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Note1",
+  "name":"Note1",
+  "parent":{
+    "name":"journey_of_the_alien_king",
+    "path":"journey_of_the_alien_king.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
